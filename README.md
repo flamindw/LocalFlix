@@ -21,6 +21,7 @@ Get the latest version from the **[Releases page](https://github.com/flamindw/Lo
 - **Watchlist** — star anything, on your drives or not.
 - **Profiles** — separate watch history, Watchlist and recommendations for everyone, with custom profile pictures.
 - **Watch history for titles you don't have** — mark movies, single episodes or whole seasons as watched.
+- **Import & export** — move your watched movies and episodes and your Watchlist between devices (Mac, iPad, Windows, Android) with a small file, in Settings → Watch History.
 - **Cast & actors** — see who's in every title, open an actor's page with everything they've been in, and search by actor.
 - **Discover** — browse by genre, see where titles are available to stream, rent or buy in your country.
 - **Your own server & download site** — optional links to stream from your own media server or open your preferred download site, set up in Settings.
